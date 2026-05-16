@@ -1,42 +1,85 @@
 <div align="center">
 
-# ANAND YADAV
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anand Yadav
 
-### Creative Full Stack Engineer • Premium UI/UX Designer • 3D Web Creator
+### 🚀 Full Stack Developer • Creative UI/UX Designer • Modern Web Animator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Next+Generation+Web+Experiences;Crafting+Premium+Animated+Interfaces;Creating+Immersive+3D+Websites;Full+Stack+Developer+from+India" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+Premium+Web+Experiences;Creating+Modern+Animated+Interfaces;MERN+Stack+Developer;Passionate+About+3D+Web+Design;Always+Learning+New+Technologies" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0F0F,25:8B5CF6,50:6D28D9,75:3B82F6,100:0F172A&text=PREMIUM%20DEVELOPER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
-# ⚡ WHO AM I
+# 💫 About Me
 
-```yaml
-Name: Anand Yadav
-Role: Full Stack Developer & Creative Designer
-Location: India
-Speciality:
-  - Premium UI/UX
-  - 3D Interactive Websites
-  - Animation-Rich Experiences
-  - MERN Stack Applications
-  - Modern Frontend Engineering
+✨ I’m a passionate **Full Stack Developer** focused on building  
+modern, premium, and interactive web experiences.
 
-Currently Learning:
-  - Next.js
-  - Three.js
-  - GSAP
-  - Cloud Architecture
-  - Advanced Backend Systems
+💻 I love creating:
+- Advanced UI/UX Designs
+- Smooth Web Animations
+- 3D Interactive Websites
+- MERN Stack Applications
+- AI Powered Projects
 
-Life Philosophy:
-  "Great design is invisible until it changes everything."
+🌱 Currently exploring:
+- **Next.js**
+- **Cloud Computing**
+- **Three.js & GSAP**
+- **Advanced Backend Architectures**
+- **Creative Frontend Engineering**
+
+⚡ Fun Fact:
+> I enjoy transforming simple ideas into visually powerful and engaging digital experiences.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xrisu_4.4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+# 💻 Tech Arsenal
+
+<div align="center">
+
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,netlify,gcp,git,github" />
+
+### 🎨 Design Tools
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+
+</div>
+
+---
+
+# 🚀 Featured Skills
+
+```txt
+💎 Premium UI/UX Design
+⚡ Smooth GSAP Animations
+🎮 Interactive 3D Websites
+📱 Responsive Web Applications
+🤖 AI Integrated Applications
+🌐 MERN Stack Development
+🎨 Creative Frontend Engineering
